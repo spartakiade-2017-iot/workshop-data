@@ -20,4 +20,4 @@ https://github.com/spartakiade-2017-iot/workshop-data/tree/master/ppt
 
 # Pictures
 
-https://github.com/spartakiade-2017-iot/workshop-data/tree/master/ppt
+https://github.com/spartakiade-2017-iot/workshop-data/tree/master/pictures
