@@ -10,4 +10,6 @@ https://github.com/spartakiade-2017-iot/esp8266-target/tree/master/code
 
 tbd.
 
+# Knowledge Base Wiki files 
 
+https://github.com/spartakiade-2017-iot/wiki/tree/master/data/content
