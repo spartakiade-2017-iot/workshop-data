@@ -1,6 +1,6 @@
 # VM Download
 
-https://drive.google.com/drive/u/0/folders/0BzgyYg7rmqgcSWRGM1BSRTdEdTg
+https://drive.google.com/drive/folders/0BzgyYg7rmqgcSWRGM1BSRTdEdTg?usp=sharing
 
 # Arduino Code der Wio Node ESP8266 Microcontroller
 
