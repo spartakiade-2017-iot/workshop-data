@@ -13,3 +13,11 @@ tbd.
 # Knowledge Base Wiki files 
 
 https://github.com/spartakiade-2017-iot/wiki/tree/master/data/content
+
+# Presentation slides
+
+https://github.com/spartakiade-2017-iot/workshop-data/tree/master/ppt
+
+# Pictures
+
+https://github.com/spartakiade-2017-iot/workshop-data/tree/master/ppt
