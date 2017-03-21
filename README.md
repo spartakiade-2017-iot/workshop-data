@@ -8,7 +8,7 @@ https://github.com/spartakiade-2017-iot/esp8266-target/tree/master/code
 
 # NodeRED workflow
 
-tbd.
+https://github.com/spartakiade-2017-iot/wiki/tree/master/flows/flows.js
 
 # Knowledge Base Wiki files 
 
